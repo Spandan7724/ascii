@@ -40,10 +40,10 @@ python ascii_art_converter.py doom.jpeg --width 500
 
 ### Original Image
 
-![Colorful ASCII Example](images/1.jpeg)
+![original image](images/1.png)
 
 
 ### Output
 
-![Colorful ASCII Example](images/1_ascii.png "Example output")
+![ASCII output](images/1_ascii.png "Example output")
 
