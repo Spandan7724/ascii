@@ -1,6 +1,6 @@
 # Image to ASCII Art Converter
 
-A Python command-line utility to convert images into vibrant, colorful ASCII art. This tool resizes the input image, maps its pixels to ASCII characters, and applies color to create stunning, artistic representations of the image directly in your terminal.
+A Python command-line utility to convert images into ASCII art. This tool resizes the input image, maps its pixels to ASCII characters, and applies color to create artistic representations of the image directly in your terminal.
 
 ---
 
@@ -45,5 +45,5 @@ python ascii_art_converter.py doom.jpeg --width 500
 
 ### Output
 
-![ASCII output](images/1_ascii.png "Example output")
+![ASCII output](images/1_ascii.png)
 
